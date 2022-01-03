@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/aee355efd6fff9f05f1ad.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/itsadityaxd/adityaplayer",
+    "repository": "https://github.com/King98179253/BHATAKTIMUSIC.git",
     "stack": "container",
     "env": {
         "API_ID": {
