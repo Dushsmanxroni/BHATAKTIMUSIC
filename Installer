@@ -4,7 +4,7 @@ asyncio
 dnspython
 ffmpeg-python
 future
-git+https://github.com/King98179253/BHATAKTIMUSIC.git
+git+https://github.com/MrAdityaXD/yt-dl@master
 motor
 pillow
 psutil
