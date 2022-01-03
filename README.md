@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [BHATAKTI_ATMA](t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)
+#### Main Developer = [BHATAKTI_ATMA](https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)
